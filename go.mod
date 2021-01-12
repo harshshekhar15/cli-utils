@@ -20,7 +20,7 @@ require (
 )
 
 replace (
-	github.com/go-resty/resty => gopkg.in/resty.v1 v1.12.0
+	github.com/go-resty/resty => gopkg.in/resty.v2 v2.4.0
 	k8s.io/api => k8s.io/api v0.19.2
 	k8s.io/client-go => k8s.io/client-go v0.19.2
 	github.com/mayadata-io/cli-utils => /home/harsh/go/src/github.com/mayadata-io/cli-utils
